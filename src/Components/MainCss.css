@@ -1,0 +1,26 @@
+/* Search Bar Css  */
+.search-bar{
+    width: 500px;
+    height: 35px;
+    /* border-radius: %; */
+    border: 0;
+     /* padding-left: 7px; */
+  padding-right: 46px;
+    margin-left: 10px;
+}
+
+/* Side Bar Padding and Margin  */
+
+.category-btn{
+  width: 200px;
+  /* height: 100vh; */
+  padding:4px;
+  margin: 5px;
+  border-radius: 20vh;
+  
+}
+.category-btn:hover{
+  background-color: #7b7a7a;
+
+}
+
